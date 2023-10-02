@@ -1,6 +1,4 @@
-# exercise-for-ai-integration
-
-## Web Application for Image Classification. 
+# Web Application for Image Classification. 
 
 This repository contains the notebook and dataset required to train a model for classifying **INSERT TOPIC HERE**. Furthermore, it includes a barebones HTML page integrating the model for user inference.
 
