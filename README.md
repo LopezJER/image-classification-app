@@ -1,9 +1,12 @@
-# Web Application for Image Classification. 
+# Tutorial Program for AI Integration
 
-This repository contains the notebook and dataset required to train a model for classifying **INSERT TOPIC HERE**. Furthermore, it includes a barebones HTML page integrating the model for user inference.
+To start learning, kindly check out the [tutorial documentation]([url](https://drive.google.com/file/d/1-PEbfr-d2vKXEa7U71PXefYynfjTK5xx/view?usp=sharing)). As you go along the tutorial, kindly commit and push the relevant assets you created, including:
 
-Required Outputs:
-Please commit and push the following files:
-1. ipynb Notebook File you used to train your model,
-2. dataset you used to train your model, and
-3. web application where you deployed your model.
+1. web application where you deployed your model,
+2. the ipynb notebook used to train the model integrated into the web app, and
+3. the dataset you used to train the model.
+
+The kind of model you train can be any of those covered in the tutorials (e.g., cats vs dogs, sign language digits). 
+
+The skills you gain in this tutorial program are crucial as you integrate a banana disease classifier into our web application.
+
